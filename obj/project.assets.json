@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Akira Kurusu\\.nuget\\packages\\": {},
-    "D:\\Recursos Visual Studio\\NuGetPackages": {}
+    "C:\\Users\\Mipro\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Soft IV\\POO_LAB\\POO_LAB.csproj",
+      "projectUniqueName": "C:\\Users\\Mipro\\Desktop\\POO_Lab\\POO_LAB\\POO_LAB.csproj",
       "projectName": "POO_LAB",
-      "projectPath": "D:\\Soft IV\\POO_LAB\\POO_LAB.csproj",
-      "packagesPath": "C:\\Users\\Akira Kurusu\\.nuget\\packages\\",
-      "outputPath": "D:\\Soft IV\\POO_LAB\\obj\\",
+      "projectPath": "C:\\Users\\Mipro\\Desktop\\POO_Lab\\POO_LAB\\POO_LAB.csproj",
+      "packagesPath": "C:\\Users\\Mipro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mipro\\Desktop\\POO_Lab\\POO_LAB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Recursos Visual Studio\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Akira Kurusu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mipro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -73,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

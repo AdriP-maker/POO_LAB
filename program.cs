@@ -32,20 +32,20 @@ class Program
 
         // a) Estudiante.CalcularPromedio() -> double
         double promedio1 = estudiante1.CalcularPromedio();
-        Console.WriteLine($"Promedio de {estudiante1.Nombre}: {promedio1:F2} (tipo: double)");
+        Console.WriteLine($"Promedio de {estudiante1.Nombre}: {promedio1:F2} ");
 
         // b) Materia.CalcularCargaSemanal(int) -> int
         int cargaMatematicas = matematicas.CalcularCargaSemanal(3);
-        Console.WriteLine($"Carga semanal de {matematicas.Nombre}: {cargaMatematicas} horas (tipo: int)");
+        Console.WriteLine($"Carga semanal de {matematicas.Nombre}: {cargaMatematicas} horas ");
 
         // c) Calificacion.CalcularPuntos() -> double
         double puntosCalif1 = calif1.CalcularPuntos();
-        Console.WriteLine($"Puntos de calificación en {calif1.Materia.Nombre}: {puntosCalif1:F2} (tipo: double)");
+        Console.WriteLine($"Puntos de calificación en {calif1.Materia.Nombre}: {puntosCalif1:F2} ");
 
         // d) EstudianteBecado.CalcularMatriculaConDescuento(double) -> double
         double matriculaBase = 5000.0;
         double matriculaConDescuento = estudianteBecado.CalcularMatriculaConDescuento(matriculaBase);
-        Console.WriteLine($"Matrícula de {estudianteBecado.Nombre}: ${matriculaConDescuento:F2} (tipo: double)");
+        Console.WriteLine($"Matrícula de {estudianteBecado.Nombre}: ${matriculaConDescuento:F2} ");
         Console.WriteLine($"  (Base: ${matriculaBase}, Descuento: {estudianteBecado.PorcentajeBeca}%)\n");
 
         // ========== 6. POLIMORFISMO CON List<IMostrable> ==========
