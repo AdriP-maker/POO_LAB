@@ -86,7 +86,7 @@ class Program
         }
         catch (ArgumentException ex)
         {
-            Console.WriteLine($"✓ Error capturado: {ex.Message}");
+            Console.WriteLine($"Error capturado: {ex.Message}");
         }
 
         try
@@ -96,7 +96,7 @@ class Program
         }
         catch (ArgumentException ex)
         {
-            Console.WriteLine($"✓ Error capturado: {ex.Message}");
+            Console.WriteLine($"Error capturado: {ex.Message}");
         }
 
         try
@@ -107,7 +107,7 @@ class Program
         }
         catch (ArgumentException ex)
         {
-            Console.WriteLine($"✓ Error capturado: {ex.Message}");
+            Console.WriteLine($"Error capturado: {ex.Message}");
         }
 
         try
@@ -117,7 +117,7 @@ class Program
         }
         catch (ArgumentException ex)
         {
-            Console.WriteLine($"✓ Error capturado: {ex.Message}");
+            Console.WriteLine($"Error capturado: {ex.Message}");
         }
 
         Console.WriteLine("\n=== FIN DEL PROGRAMA ===");
