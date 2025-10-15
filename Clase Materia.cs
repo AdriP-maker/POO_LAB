@@ -1,4 +1,3 @@
-// Materia.cs
 using System;
 
 public class Materia : IMostrable
