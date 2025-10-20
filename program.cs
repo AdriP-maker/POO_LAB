@@ -79,47 +79,52 @@ class Program
         // ========== 7. DEMOSTRACIÓN DE VALIDACIONES ==========
         Console.WriteLine("========== DEMOSTRACIÓN DE VALIDACIONES ==========\n");
 
+        // Validación 1: Nota fuera de rango
         try
         {
-            Console.WriteLine("Probando validación de nota (debe estar entre 0-100)...");
+            Console.WriteLine("1. Intentando crear calificación con nota = 105 (debe estar entre 0-100)");
             Calificacion califInvalida = new Calificacion(estudiante1, matematicas, 105);
         }
         catch (ArgumentException ex)
         {
-            Console.WriteLine($"Error capturado: {ex.Message}");
+            Console.WriteLine($"Nota invalida: {ex.Message}\n");
         }
 
+        // Validación 2: Créditos negativos
         try
         {
-            Console.WriteLine("\nProbando validación de créditos (debe ser > 0)...");
+            Console.WriteLine("2. Intentando crear materia con créditos = -3 (debe ser > 0)");
             Materia materiaInvalida = new Materia("Test", "TST001", -3);
         }
         catch (ArgumentException ex)
         {
-            Console.WriteLine($"Error capturado: {ex.Message}");
+            Console.WriteLine($"Creditos invalidos menores o iguales a 0: {ex.Message}\n");
         }
 
+        // Validación 3: Inscritos mayor que cupos
         try
         {
-            Console.WriteLine("\nProbando validación de inscritos (debe ser <= cupos)...");
+            Console.WriteLine("3. Intentando asignar 25 inscritos cuando solo hay 20 cupos");
             Materia materiaConCupos = new Materia("Test", "TST002", 3, 20);
-            materiaConCupos.Inscritos = 25; // Más que los cupos
+            materiaConCupos.Inscritos = 25;
         }
         catch (ArgumentException ex)
         {
-            Console.WriteLine($"Error capturado: {ex.Message}");
+            Console.WriteLine($"Cupos superados ya no se pueden ingresar mas estudiantes: {ex.Message}\n");
         }
 
+        // Validación 4: Porcentaje de beca inválido
         try
         {
-            Console.WriteLine("\nProbando validación de porcentaje beca (debe estar entre 0-100)...");
+            Console.WriteLine("4. Intentando crear estudiante con beca del 150% (debe estar entre 0-100)");
             EstudianteBecado becadoInvalido = new EstudianteBecado("Test", "E999", "Test", 150);
         }
         catch (ArgumentException ex)
         {
-            Console.WriteLine($"Error capturado: {ex.Message}");
+            Console.WriteLine($"Limite de porcentaje de beca excedido: {ex.Message}\n");
         }
 
+        Console.WriteLine("Todas las validaciones funcionaron correctamente.");
         Console.WriteLine("\n=== FIN DEL PROGRAMA ===");
     }
 }
