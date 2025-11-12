@@ -1,0 +1,16 @@
+C:\Users\Mipro\source\repos\Calculadora_Basic\bin\Debug\net8.0-windows\Calculadora_Basic.exe
+C:\Users\Mipro\source\repos\Calculadora_Basic\bin\Debug\net8.0-windows\Calculadora_Basic.deps.json
+C:\Users\Mipro\source\repos\Calculadora_Basic\bin\Debug\net8.0-windows\Calculadora_Basic.runtimeconfig.json
+C:\Users\Mipro\source\repos\Calculadora_Basic\bin\Debug\net8.0-windows\Calculadora_Basic.dll
+C:\Users\Mipro\source\repos\Calculadora_Basic\bin\Debug\net8.0-windows\Calculadora_Basic.pdb
+C:\Users\Mipro\source\repos\Calculadora_Basic\obj\Debug\net8.0-windows\Calculadora_Basic.Form1.resources
+C:\Users\Mipro\source\repos\Calculadora_Basic\obj\Debug\net8.0-windows\Calculadora_Basic.csproj.GenerateResource.cache
+C:\Users\Mipro\source\repos\Calculadora_Basic\obj\Debug\net8.0-windows\Calculadora_Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mipro\source\repos\Calculadora_Basic\obj\Debug\net8.0-windows\Calculadora_Basic.AssemblyInfoInputs.cache
+C:\Users\Mipro\source\repos\Calculadora_Basic\obj\Debug\net8.0-windows\Calculadora_Basic.AssemblyInfo.cs
+C:\Users\Mipro\source\repos\Calculadora_Basic\obj\Debug\net8.0-windows\Calculadora_Basic.csproj.CoreCompileInputs.cache
+C:\Users\Mipro\source\repos\Calculadora_Basic\obj\Debug\net8.0-windows\Calculadora_Basic.dll
+C:\Users\Mipro\source\repos\Calculadora_Basic\obj\Debug\net8.0-windows\refint\Calculadora_Basic.dll
+C:\Users\Mipro\source\repos\Calculadora_Basic\obj\Debug\net8.0-windows\Calculadora_Basic.pdb
+C:\Users\Mipro\source\repos\Calculadora_Basic\obj\Debug\net8.0-windows\Calculadora_Basic.genruntimeconfig.cache
+C:\Users\Mipro\source\repos\Calculadora_Basic\obj\Debug\net8.0-windows\ref\Calculadora_Basic.dll
