@@ -1,0 +1,58 @@
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.csproj.AssemblyReference.cache
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.ApiKeyForm.resources
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.MainForm.resources
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.csproj.GenerateResource.cache
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.AssemblyInfoInputs.cache
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.AssemblyInfo.cs
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.csproj.AssemblyReference.cache
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.ApiKeyForm.resources
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.MainForm.resources
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.csproj.GenerateResource.cache
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.AssemblyInfoInputs.cache
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.AssemblyInfo.cs
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\ChatGPTWinForms.exe
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\ChatGPTWinForms.deps.json
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\ChatGPTWinForms.runtimeconfig.json
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\ChatGPTWinForms.dll
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\ChatGPTWinForms.pdb
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\OpenAI.dll
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\System.Net.ServerSentEvents.dll
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTW.2B8346DF.Up2Date
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.dll
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\refint\ChatGPTWinForms.dll
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.pdb
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.genruntimeconfig.cache
+C:\Users\Mipro\Downloads\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ref\ChatGPTWinForms.dll
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\ChatGPTWinForms.exe
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\ChatGPTWinForms.deps.json
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\ChatGPTWinForms.runtimeconfig.json
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\ChatGPTWinForms.dll
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\ChatGPTWinForms.pdb
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\OpenAI.dll
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\bin\Debug\net8.0-windows\System.Net.ServerSentEvents.dll
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.csproj.AssemblyReference.cache
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.ApiKeyForm.resources
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.MainForm.resources
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.csproj.GenerateResource.cache
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.AssemblyInfoInputs.cache
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.AssemblyInfo.cs
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTW.2B8346DF.Up2Date
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.dll
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\refint\ChatGPTWinForms.dll
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.pdb
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ChatGPTWinForms.genruntimeconfig.cache
+D:\Proyectos visual\ChatGPTWinForms\ChatGPTWinForms\ChatGPTWinForms\obj\Debug\net8.0-windows\ref\ChatGPTWinForms.dll
